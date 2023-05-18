@@ -1,0 +1,4 @@
+PHP Framework
+
+1. Codelgniter: Codelgniter is a lightweight PHP Frameworktat is designed to be fast and easy to use. it has a small footprint and minimal configuration, making it a good choice for smaller projects or developers who prefera similar approach. Codelgniterfeatures a powerful set of libraries and helpers, including a database abstraction layer, form validation, and security features.
+2. Laravel: Laravel is a free, open-source PHP framework that emphasizes elegant, expressive syntax and a robust set of tools for building modern web application. It has a Large and active community of developers, making it easy to find help and resources  when needed.Laravelincludes features such as a poowerful ORM, robust routing system, built-in authentication and authorization, and support for  various frontend framework and libraries.
